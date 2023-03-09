@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/110466244/224155317-580bf8c9-73ce-40fa-aa7a-c4c9f5a06646.png)
 
 
-Walmart Store Sales Forecasting
+# Walmart Store Sales Forecasting
 
 # Problem:
 
@@ -41,7 +41,7 @@ Random Forest Regressor
 
 ARIMA/ExponentialSmooting/ARCH Models
 
-Metric:
+# Metric:
 
 MSE, AIC
 
@@ -53,7 +53,7 @@ Random Forest Regressor: Feature selection was done according to feature importa
 
 ARIMA/ARCH Models: Second challange in this data is that it is not stationary. To make data more stationary taking difference,log and shift techniques applied. The least error was found with ExponentialSmooting as 821.
 
-Findings:
+# Findings:
 
 Although some departments has higher sales, on average others can be best. It shows us, some departments has effect on sales on some seasons like Thanksgiving.
 
